@@ -1,1 +1,1 @@
-# QoS-Management
+# Due to the fact that QoS Monitoring is included with this QoS management and monitoring solution, you can anticipate a very effective product combination that will result in significant benefits for your organisation. You can view network traffic split by class of service methods, such as Type of Service and Differentiated Services Code Point, in QoS Monitoring. Network Quality of Service Reporting enables you to customise pre-configured reports and build new QoS reports.
